@@ -36,7 +36,7 @@
   <h1 class="book-heading">About</h1>
   <div class="field field--name-body field--type-text-with-summary field--label-hidden"><div class="field__items"><div class="field__item even"><p>Dandelion is devoted to amplifying activism and social connectedness in local communities through a loose network of discussion clubs.</p>
 
-<p>We believe meaningful, productive dialogue brings people closer together, and together we can bring about social change. <span class="highlight">A strong community benefits the individual, the community as well as the greater society. People who feel a sense of belonging tend to live happier and healthier lives, and strong communities create a more stable and supportive society.<a class="see-footnote" id="footnoteref1_9wnc4wc" title="http://extension.psu.edu/youth/betterkidcare/early-care/our-resources/tip-pages/tips/embracing-your-community" href="http://dandelion.liquidfridge.co.za/#footnote1_9wnc4wc">1</a></span></p>
+<p>We believe meaningful, productive dialogue brings people closer together, and together we can bring about social change. <span class="highlight">A strong community benefits the individual, the community as well as the greater society. People who feel a sense of belonging tend to live happier and healthier lives, and strong communities create a more stable and supportive society.<a class="see-footnote" id="footnoteref1_37nmgo1" title="http://extension.psu.edu/youth/betterkidcare/early-care/our-resources/tip-pages/tips/embracing-your-community" href="http://dandelion.liquidfridge.co.za/#footnote1_37nmgo1">1</a></span></p>
 
 <p>We aim to create safe spaces for:</p>
 
@@ -49,9 +49,34 @@
 
 <ul><li>Find original source of highlighted text above (widely used)</li>
 	<li>Mention that we aim to broaden the reach of activism and volunteer orgs, and connect them and community media. Possibly include a light form of networked advocacy, though outside of our scope.</li>
-	<li>Possibly mention that while there is an online component to this, we focus on IRL dialogue and interaction, and value it more. Reasons include: low commitment (easy to engage on and disengage from issues); algo filter bubbles; self- and state censorship; possible toxic behaviour and reduced empathy and trust<a class="see-footnote" id="footnoteref2_7zzwmjs" title="https://en.wikipedia.org/wiki/Empathy_in_online_communities" href="http://dandelion.liquidfridge.co.za/#footnote2_7zzwmjs">2</a> in social media and discussion forums; for many, significant part of Internet use is passive and people might feel less inclined to engage in activism while in consumption mode (effectively numbing); many causes to choose from, less focused engagement.</li>
+	<li>Possibly mention that while there is an online component to this, we focus on IRL dialogue and interaction, and value it more. See reasons below.</li>
 	<li>Possibly mention that we could use participatory culture and play to make civic engagement more fun, draw in more people. Perhaps outside of our scope because the project is a gateway to activism and volunteerism for those not already involved in those. Consider how to implement.</li>
-</ul><h2>Principles</h2>
+</ul><h2>Why</h2>
+
+<p><span class="highlight">@todo Clean up or incorporate elsewhere on this page</span></p>
+
+<h3>To solve problems with activism on the Internet</h3>
+
+<ul><li>Marketing/raising awareness of causes:
+	<ul><li>Filter bubbles, especially Facebook. People don't see "information that disagrees with their viewpoints, effectively isolating them in their own cultural or ideological bubbles."<a class="see-footnote" id="footnoteref2_b8u38y9" title="https://en.wikipedia.org/wiki/Filter_bubble" href="http://dandelion.liquidfridge.co.za/#footnote2_b8u38y9">2</a></li>
+		<li>For many, a significant part of Internet use is passive and people might feel less inclined to engage in activism while in consumption mode. They are effectively numbed.</li>
+		<li>People might be overwhelmed by the number of causes to support, and not focus on a specific issue in their local [IRL] community.</li>
+	</ul></li>
+	<li>Debating issues. Depending on the size, composition and culture of the community, discussion of controversial issues might be problematic due to:
+	<ul><li>Toxic behaviour because of reduced empathy and trust<a class="see-footnote" id="footnoteref3_xhpbzea" title="https://en.wikipedia.org/wiki/Empathy_in_online_communities" href="http://dandelion.liquidfridge.co.za/#footnote3_xhpbzea">3</a></li>
+		<li>Self-censorship, e.g. comments that can actually or perceivably damage one's reputation in the community or put one in danger because of authoritarian government.</li>
+		<li>State censorship might make researching issues difficult.</li>
+	</ul></li>
+	<li>Action that leads to desired outcomes:
+	<ul><li>Low commitment (easy to engage on and disengage) to cause.</li>
+		<li><span class="highlight">@todo</span> See Engagement and Impact in the <a href="http://civicmediaproject.org/works/civic-media-project/learning-guide" rel="nofollow">Civic Media Project learning guide</a></li>
+	</ul></li>
+</ul><h3>To increase social connectedness</h3>
+
+<ul><li>tech makes us disconnected from each other and our local communities [citation needed]</li>
+</ul><h3>To be a gateway to activism and voluteerism</h3>
+
+<h2>Principles</h2>
 
 <h3>Community</h3>
 
@@ -62,22 +87,25 @@
 
 <p><span class="highlight">@todo</span></p>
 
-<h3>Equality</h3>
+<ul><li>"Decisions should be made by those that are affected by them. Only those with a legitimate interest in a decision should have an input. The more local, the more decentralised we can make decisions, and the more control we will each gain over our lives."<a class="see-footnote" id="footnoteref4_af9toqh" title="http://trapese.clearerchannel.org/chapters/HandbookForChangingOurWorld_chap3.pdf" href="http://dandelion.liquidfridge.co.za/#footnote4_af9toqh">4</a></li>
+</ul><h3>Equality</h3>
 
 <p><span class="highlight">@todo</span></p>
 
-<ul><li>"In theory, democracy works because each single person has one vote and all those votes are equal in the eyes of the law. But equality is not equity, and that’s an important distinction to understand for anyone working on social change. Equality implies that everyone has an equal chance to participate, but doesn’t recognize that an equal chance may not lead to equal participation. Equity recognizes that playing fields aren’t level, that people may need disproportionate amounts of help to have equitable participation."<a class="see-footnote" id="footnoteref3_r0q63x9" title="http://www.ethanzuckerman.com/blog/2015/10/19/insurrectionist-civics-in-the-age-of-mistrust/" href="http://dandelion.liquidfridge.co.za/#footnote3_r0q63x9">3</a></li>
+<ul><li>"In theory, democracy works because each single person has one vote and all those votes are equal in the eyes of the law. But equality is not equity, and that’s an important distinction to understand for anyone working on social change. Equality implies that everyone has an equal chance to participate, but doesn’t recognize that an equal chance may not lead to equal participation. Equity recognizes that playing fields aren’t level, that people may need disproportionate amounts of help to have equitable participation."<a class="see-footnote" id="footnoteref5_utymqb1" title="http://www.ethanzuckerman.com/blog/2015/10/19/insurrectionist-civics-in-the-age-of-mistrust/" href="http://dandelion.liquidfridge.co.za/#footnote5_utymqb1">5</a></li>
 </ul><h3>Openness</h3>
 
 <p><span class="highlight">@todo</span></p>
 
 <ul><li>Describe how this aligns with the open movement, cooperation, collaboration</li>
-	<li>"People with open networks are more easily able to create atypical combinations."<a class="see-footnote" id="footnoteref4_kh85esl" title="https://medium.com/life-learning/the-number-one-predictor-of-career-success-according-to-network-science" href="http://dandelion.liquidfridge.co.za/#footnote4_kh85esl">4</a></li>
+	<li>"People with open networks are more easily able to create atypical combinations."<a class="see-footnote" id="footnoteref6_xppznaq" title="https://medium.com/life-learning/the-number-one-predictor-of-career-success-according-to-network-science" href="http://dandelion.liquidfridge.co.za/#footnote6_xppznaq">6</a></li>
 	<li>We should be allowed to aggregate discussion and pull in practices from events, i.e. events and content should not be under restrictive licenses</li>
-</ul><ul class="footnotes"><li class="footnote" id="footnote1_9wnc4wc"><a class="footnote-label" href="http://dandelion.liquidfridge.co.za/#footnoteref1_9wnc4wc">1.</a> <a href="http://extension.psu.edu/youth/betterkidcare/early-care/our-resources/tip-pages/tips/embracing-your-community">http://extension.psu.edu/youth/betterkidcare/early-care/our-resources/ti...</a></li>
-<li class="footnote" id="footnote2_7zzwmjs"><a class="footnote-label" href="http://dandelion.liquidfridge.co.za/#footnoteref2_7zzwmjs">2.</a> <a href="https://en.wikipedia.org/wiki/Empathy_in_online_communities">https://en.wikipedia.org/wiki/Empathy_in_online_communities</a></li>
-<li class="footnote" id="footnote3_r0q63x9"><a class="footnote-label" href="http://dandelion.liquidfridge.co.za/#footnoteref3_r0q63x9">3.</a> <a href="http://www.ethanzuckerman.com/blog/2015/10/19/insurrectionist-civics-in-the-age-of-mistrust/">http://www.ethanzuckerman.com/blog/2015/10/19/insurrectionist-civics-in-...</a></li>
-<li class="footnote" id="footnote4_kh85esl"><a class="footnote-label" href="http://dandelion.liquidfridge.co.za/#footnoteref4_kh85esl">4.</a> <a href="https://medium.com/life-learning/the-number-one-predictor-of-career-success-according-to-network-science">https://medium.com/life-learning/the-number-one-predictor-of-career-succ...</a></li>
+</ul><ul class="footnotes"><li class="footnote" id="footnote1_37nmgo1"><a class="footnote-label" href="http://dandelion.liquidfridge.co.za/#footnoteref1_37nmgo1">1.</a> <a href="http://extension.psu.edu/youth/betterkidcare/early-care/our-resources/tip-pages/tips/embracing-your-community">http://extension.psu.edu/youth/betterkidcare/early-care/our-resources/ti...</a></li>
+<li class="footnote" id="footnote2_b8u38y9"><a class="footnote-label" href="http://dandelion.liquidfridge.co.za/#footnoteref2_b8u38y9">2.</a> <a href="https://en.wikipedia.org/wiki/Filter_bubble">https://en.wikipedia.org/wiki/Filter_bubble</a></li>
+<li class="footnote" id="footnote3_xhpbzea"><a class="footnote-label" href="http://dandelion.liquidfridge.co.za/#footnoteref3_xhpbzea">3.</a> <a href="https://en.wikipedia.org/wiki/Empathy_in_online_communities">https://en.wikipedia.org/wiki/Empathy_in_online_communities</a></li>
+<li class="footnote" id="footnote4_af9toqh"><a class="footnote-label" href="http://dandelion.liquidfridge.co.za/#footnoteref4_af9toqh">4.</a> <a href="http://trapese.clearerchannel.org/chapters/HandbookForChangingOurWorld_chap3.pdf">http://trapese.clearerchannel.org/chapters/HandbookForChangingOurWorld_c...</a></li>
+<li class="footnote" id="footnote5_utymqb1"><a class="footnote-label" href="http://dandelion.liquidfridge.co.za/#footnoteref5_utymqb1">5.</a> <a href="http://www.ethanzuckerman.com/blog/2015/10/19/insurrectionist-civics-in-the-age-of-mistrust/">http://www.ethanzuckerman.com/blog/2015/10/19/insurrectionist-civics-in-...</a></li>
+<li class="footnote" id="footnote6_xppznaq"><a class="footnote-label" href="http://dandelion.liquidfridge.co.za/#footnoteref6_xppznaq">6.</a> <a href="https://medium.com/life-learning/the-number-one-predictor-of-career-success-according-to-network-science">https://medium.com/life-learning/the-number-one-predictor-of-career-succ...</a></li>
 </ul></div></div></div>  </div>
 <div id="node-8" class="section-3">
   <h1 class="book-heading">How It Works</h1>
@@ -422,7 +450,7 @@
 </div>
               </div>
               <div class="l-footer">
-          <p>Source: <a href="http://dandelion.liquidfridge.co.za/notes">http://dandelion.liquidfridge.co.za/notes</a><br />Updated: Mon, 2015-11-02 05:02</p>          <p>This work is licensed under a <a href="http://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="nofollow">Creative Commons Attribution-ShareAlike 4.0 International License</a>.</p>
+          <p>Source: <a href="http://dandelion.liquidfridge.co.za/notes">http://dandelion.liquidfridge.co.za/notes</a><br />Updated: Mon, 2015-11-02 11:04</p>          <p>This work is licensed under a <a href="http://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="nofollow">Creative Commons Attribution-ShareAlike 4.0 International License</a>.</p>
 
 
         </div>
