@@ -255,22 +255,23 @@
 
 <p><span class="highlight">@todo</span></p>
 
-<ul><li>Compile a list of significant organisations; 122,000 NPOs in South Africa according to SANGONeT<a class="see-footnote" id="footnoteref1_uh2yd7h" title="http://www.ngopulse.org/about" href="http://dandelion.liquidfridge.co.za/#footnote1_uh2yd7h">1</a>.</li>
+<ul><li>Compile a list of significant organisations; 122,000 NPOs in South Africa according to SANGONeT<a class="see-footnote" id="footnoteref1_doigeba" title="http://www.ngopulse.org/about" href="http://dandelion.liquidfridge.co.za/#footnote1_doigeba">1</a>.</li>
 	<li>Entries should be categorised/tagged according to area of focus, e.g. social, economic, political, ecological, and location, so that it's easy to match relevant organisations in local community with topic of discussion.</li>
 	<li>Consider an open dataset, if existing databases are insufficient. Fields: about, location, URL</li>
 	<li>Sources:<br /><a href="http://www.myhandsandheart.org">http://www.myhandsandheart.org</a><br /><a href="http://www.charitysa.co.za">http://www.charitysa.co.za</a><br /><a href="http://www.greatergoodsa.co.za">http://www.greatergoodsa.co.za</a><br /><a href="https://amaphiko.redbull.com/projects">https://amaphiko.redbull.com/projects</a><br /><a href="https://www.westerncape.gov.za/general-publication/web-directory-various-non-profit-and-civil-society-organisations-western-cape">https://www.westerncape.gov.za/general-publication/web-directory-various...</a><br /><a href="http://www.wango.org/resources.aspx?section=ngodir&amp;sub=region&amp;regionID=18&amp;col=BFB07D">http://www.wango.org/resources.aspx?section=ngodir&amp;sub=region&amp;regionID=1...</a></li>
 </ul><h2>List of tools for civic engagement</h2>
 
-<p><span class="highlight">@todo</span></p>
+<p><span class="highlight">@todo</span> Compile a list of online tools: web, apps, data portals, dashboards (e.g. Solomon), problem reporting tools (e.g. FixMyStreet), citizen-based monitoring, etc. Anything at local, provincial, and national gov level, but also non-gov (e.g. <a href="https://docs.google.com/spreadsheets/d/1TGXJF2f05fTFjKFsbRp2QFmeXu-htLtEP8FqBs311tk/edit?usp=sharing" rel="nofollow">Atlas of Social Maps</a>, <a href="http://crowdvoice.org/" rel="nofollow">CrowdVoice</a>, projects similar to what one might find at Centre for Civic Media, Engagement Lab, Public Lab, etc.). Check projects on Code4Africa and Code4SA sites. Examples:</p>
 
-<ul><li>Compile a list of online tools: web, apps, data portals, dashboards (e.g. Solomon), problem reporting tools (e.g. FixMyStreet), citizen-based monitoring, etc. Anything at local, provincial, and national gov level, but also non-gov (e.g. <a href="https://docs.google.com/spreadsheets/d/1TGXJF2f05fTFjKFsbRp2QFmeXu-htLtEP8FqBs311tk/edit?usp=sharing" rel="nofollow">Atlas of Social Maps</a>, <a href="http://crowdvoice.org/" rel="nofollow">CrowdVoice</a>, projects similar to what one might find at Centre for Civic Media, Engagement Lab, Public Lab, etc.). Check projects on Code4Africa and Code4SA sites. Examples:
+<ul><li><a href="http://www.pa.org.za" rel="nofollow">People's Assembly</a></li>
+	<li><a href="http://cbm.code4sa.org/" rel="nofollow">Citizen-based Monitoring</a></li>
+	<li><a href="http://web1.capetown.gov.za/web1/OpenDataPortal/AllDatasets" rel="nofollow">City of Cape Town Open Data Portal</a></li>
+</ul><h2>List of case studies on civic tech projects</h2>
 
-	<ul><li><a href="http://www.pa.org.za" rel="nofollow">People's Assembly</a></li>
-		<li><a href="http://cbm.code4sa.org/" rel="nofollow">Citizen-based Monitoring</a></li>
-		<li><a href="http://web1.capetown.gov.za/web1/OpenDataPortal/AllDatasets" rel="nofollow">City of Cape Town Open Data Portal</a></li>
-	</ul></li>
-	<li>Consider adding a list of case studies on civic tech projects (to derive best practices from).</li>
-</ul><ul class="footnotes"><li class="footnote" id="footnote1_uh2yd7h"><a class="footnote-label" href="http://dandelion.liquidfridge.co.za/#footnoteref1_uh2yd7h">1.</a> <a href="http://www.ngopulse.org/about">http://www.ngopulse.org/about</a></li>
+<p><span class="highlight">@todo</span> Consider adding a list of case studies on civic tech projects - to derive best practices from.</p>
+
+
+<ul class="footnotes"><li class="footnote" id="footnote1_doigeba"><a class="footnote-label" href="http://dandelion.liquidfridge.co.za/#footnoteref1_doigeba">1.</a> <a href="http://www.ngopulse.org/about">http://www.ngopulse.org/about</a></li>
 </ul></div></div></div>  </div>
 </div>
 <div id="node-3" class="section-2">
@@ -519,7 +520,7 @@
 </div>
               </div>
               <div class="l-footer">
-          <p>Source: <a href="http://dandelion.liquidfridge.co.za/notes">http://dandelion.liquidfridge.co.za/notes</a><br />Updated: Fri, 2015-12-18 14:45</p>          <p>This work is licensed under a <a href="http://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="nofollow">Creative Commons Attribution-ShareAlike 4.0 International License</a>.</p>
+          <p>Source: <a href="http://dandelion.liquidfridge.co.za/notes">http://dandelion.liquidfridge.co.za/notes</a><br />Updated: Fri, 2015-12-18 14:50</p>          <p>This work is licensed under a <a href="http://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="nofollow">Creative Commons Attribution-ShareAlike 4.0 International License</a>.</p>
 
 
         </div>
